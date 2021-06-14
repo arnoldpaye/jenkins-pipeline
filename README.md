@@ -15,7 +15,7 @@ Here is a outline of the steps taken:
 - Addd another stage in pipeline
 
 ## Links
-[Jenkins instance](https://github.com/arnoldpaye/jenkins-pipeline)
+[Jenkins instance](http://ec2-18-223-122-156.us-east-2.compute.amazonaws.com:8080/)
 
 [Static site bucket](https://arn-jenkins-bucket.s3.us-east-2.amazonaws.com/index.html)
 
