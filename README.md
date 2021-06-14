@@ -22,22 +22,29 @@ Here is a outline of the steps taken:
 ## Screenshots
 
 ### Screenshot 01
+jenkins user authentication:
 ![screenshot1](images/screenshot-01.png)
 
 ### Screenshot 02
+Jenkins installation on EC2 instance:
 ![screenshot2](images/screenshot-02.png)
 
+Blue Ocen plugin running:
 ### Screenshot 03
 ![screenshot3](images/screenshot-03.png)
 
+Github pipelines:
 ### Screenshot 04
 ![screenshot4](images/screenshot-04.png)
 
+Static site's file on S3:
 ### Screenshot 05
 ![screenshot5](images/screenshot-05.png)
 
+Lint HTML stage fail:
 ### Screenshot 06
 ![screenshot6](images/screenshot-06.png)
 
+Lint HTML stage success:
 ### Screenshot 07
 ![screenshot7](images/screenshot-07.png)
