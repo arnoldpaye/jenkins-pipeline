@@ -29,22 +29,22 @@ jenkins user authentication:
 Jenkins installation on EC2 instance:
 ![screenshot2](images/screenshot-02.png)
 
-Blue Ocen plugin running:
 ### Screenshot 03
+Blue Ocen plugin running:
 ![screenshot3](images/screenshot-03.png)
 
-Github pipelines:
 ### Screenshot 04
+Github pipelines:
 ![screenshot4](images/screenshot-04.png)
 
-Static site's file on S3:
 ### Screenshot 05
+Static site's file on S3:
 ![screenshot5](images/screenshot-05.png)
 
-Lint HTML stage fail:
 ### Screenshot 06
+Lint HTML stage fail:
 ![screenshot6](images/screenshot-06.png)
 
-Lint HTML stage success:
 ### Screenshot 07
+Lint HTML stage success:
 ![screenshot7](images/screenshot-07.png)
